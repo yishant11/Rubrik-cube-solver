@@ -35,7 +35,7 @@ A comprehensive **Object-Oriented Rubik's Cube Solver** built with React, Materi
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/yourusername/rubiks-cube-solver.git
+   git clone https://github.com/yishant11/rubiks-cube-solver.git
    cd rubiks-cube-solver
    \`\`\`
 
