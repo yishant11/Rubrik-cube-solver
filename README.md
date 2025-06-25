@@ -2,7 +2,8 @@
 
 A comprehensive **Object-Oriented Rubik's Cube Solver** built with React, Material-UI, and Tailwind CSS. This project implements a complete cube representation, manual rotation controls, scrambling functionality, and an automated solving algorithm.
 
-![Rubik's Cube Solver Screenshot](screenshot.png)
+# LIVE LINK
+Live Link ->  https://rubrik-cube-solver.vercel.app/
 
 ## 🎯 Features
 
